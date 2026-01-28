@@ -1,5 +1,5 @@
 # The Article
-[Article] (https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
+[Article](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
 
 # My Opinion
 
