@@ -1,5 +1,5 @@
 # The Article
-[Article](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
+[When AI writes almost all code, what happens to software engineering?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
 
 # My Opinion
 
